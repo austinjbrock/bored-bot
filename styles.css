@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@100&family=Titillium+Web:wght@200&display=swap');
+
+body{
+   margin: 0 auto;
+   padding: 0;
+   background: #BBD2C5;  /* fallback for old browsers */
+   background: -webkit-linear-gradient(to right, #203A43, #BBD2C5);  /* Chrome 10-25, Safari 5.1-6 */
+   background: linear-gradient(to right, #2c5364, #BBD2C5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   font-family: 'Saira Condensed', sans-serif; 
+   /* font-family: 'Titillium Web', sans-serif; */
+   font-weight: 200;
+   
+}
+
+
+h1{
+   font-size: 48px;
+}
+
+button {
+   height: 60px;
+   width: 100px;
+   border-radius: 10%;
+   margin-bottom: 20px;
+
+}
+
+#idea-box {
+   font-size: 24px;
+}
+#idea-button {
+   font-size: 18px;
+}

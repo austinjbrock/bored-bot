@@ -1,2 +1,2 @@
 # bored-bot
-pulls in games using the bored API
+pulls in random ideas for when you are bored, using the bored API.
